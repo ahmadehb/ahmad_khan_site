@@ -1,36 +1,36 @@
-/* General styles for the About Section */
+/* Styles for About Section */
 .about-section {
-    padding: 50px 20px;
-    background-color: #f9f9f9; /* Light background color */
-    margin-left: 220px; /* Adjust for sidebar */
-  }
-  
-  .about-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .about-content h2 {
-    font-size: 2.5rem;
-    text-align: center;
-    margin-bottom: 30px;
-    color: #333;
-  }
-  
-  .about-section-item {
-    margin-bottom: 30px;
-  }
-  
-  .about-section-item h3 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #222; /* Darker color for headers */
-    margin-bottom: 10px;
-  }
-  
-  .about-section-item p {
-    font-size: 1.1rem;
-    color: #555; /* Softer gray for text */
-    line-height: 1.6;
-  }
-  
+  padding: 30px 15px; /* Inner spacing */
+  background-color: #f9f9f9; /* Light background */
+  width: 70%; /* Reduce the overall width */
+  max-width: 800px; /* Constrain the max size */
+  margin: 50px auto; /* Center-align */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px; /* Space between sections */
+}
+
+.about-content h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.about-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #555;
+}
+
+.about-item p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.6; /* Improve readability */
+}

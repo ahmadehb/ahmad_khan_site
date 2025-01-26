@@ -1,16 +1,24 @@
 .contact-section {
-    margin-left: 220px; /* Adjust for sidebar */
-    padding: 50px 20px;
-    background-color: #ffffff;
-  }
-  
-  .contact-section h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-  }
-  
-  .contact-section p {
-    font-size: 1.2rem;
-    color: #555;
-  }
-  
+  margin-left: 220px; /* Adjust for sidebar */
+  padding: 50px 20px;
+  background-color: #ffffff; /* White background */
+}
+
+.contact-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.contact-section a {
+  color: #007bff; /* Make the email link blue */
+  text-decoration: none;
+}
+
+.contact-section a:hover {
+  text-decoration: underline; /* Underline the email link on hover */
+}

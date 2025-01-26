@@ -1,16 +1,24 @@
 .lab-section {
-    margin-left: 220px; /* Adjust for sidebar */
-    padding: 50px 20px;
-    background-color: #ffffff;
-  }
-  
-  .lab-section h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-  }
-  
-  .lab-section p {
-    font-size: 1.2rem;
-    color: #555;
-  }
-  
+  padding: 50px 20px; /* Same padding as About Section */
+  background-color: #f9f9f9; /* Same light background color */
+  width: 70%; /* Same width as About Section */
+  max-width: 800px; /* Constrain the size */
+  margin: 50px auto; /* Center-align and add spacing */
+  border-radius: 10px; /* Rounded corners for the card effect */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.lab-section h2 {
+  font-size: 2rem; /* Match the heading size of About Section */
+  text-align: center; /* Center-align the section title */
+  margin-bottom: 30px; /* Space below the title */
+  color: #333;
+}
+
+.lab-section p {
+  font-size: 1.1rem; /* Match the paragraph font size */
+  color: #555; /* Softer gray text */
+  line-height: 1.6; /* Improve readability */
+  text-align: justify; /* Align the text nicely */
+  margin-bottom: 20px; /* Space below each paragraph */
+}
