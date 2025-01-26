@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ahmad_khan_site/static/css/main.e4689be5.css",
-    "main.js": "/ahmad_khan_site/static/js/main.9cc66473.js",
+    "main.js": "/ahmad_khan_site/static/js/main.33ad82bb.js",
     "static/js/488.21a3b654.chunk.js": "/ahmad_khan_site/static/js/488.21a3b654.chunk.js",
     "static/media/ImageMe.JPG": "/ahmad_khan_site/static/media/ImageMe.c1d5a8a7ec056f8c2267.JPG",
     "static/media/SharedImage.png": "/ahmad_khan_site/static/media/SharedImage.3f1d170e23bd7157ae45.png",
@@ -10,11 +10,11 @@
     "static/media/Bioinformatics.jpeg": "/ahmad_khan_site/static/media/Bioinformatics.6a0ad2260a889945951f.jpeg",
     "index.html": "/ahmad_khan_site/index.html",
     "main.e4689be5.css.map": "/ahmad_khan_site/static/css/main.e4689be5.css.map",
-    "main.9cc66473.js.map": "/ahmad_khan_site/static/js/main.9cc66473.js.map",
+    "main.33ad82bb.js.map": "/ahmad_khan_site/static/js/main.33ad82bb.js.map",
     "488.21a3b654.chunk.js.map": "/ahmad_khan_site/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4689be5.css",
-    "static/js/main.9cc66473.js"
+    "static/js/main.33ad82bb.js"
   ]
 }
